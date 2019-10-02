@@ -1,0 +1,7 @@
+{
+  "name": "PruebaImaginamosIonic",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
